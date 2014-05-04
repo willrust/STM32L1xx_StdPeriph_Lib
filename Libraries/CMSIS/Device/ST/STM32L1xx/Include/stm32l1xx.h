@@ -76,7 +76,7 @@
 /* #define STM32L1XX_MDP */   /*!< - Ultra Low Power Medium-density Plus devices: STM32L151xCxx, STM32L152xCxx and STM32L162xCxx 
                                    - Ultra Low Power Medium-density Plus Value Line devices: STM32L100xCxx  */
 
-#define STM32L1XX_HD     /*!< Ultra Low Power High-density devices: STM32L151xDxx, STM32L152xDxx and STM32L162xDxx */
+/* #define STM32L1XX_HD */    /*!< Ultra Low Power High-density devices: STM32L151xDxx, STM32L152xDxx and STM32L162xDxx */
 #endif
 /*  Tip: To avoid modifying this file each time you need to switch between these
         devices, you can define the device in your toolchain compiler preprocessor.
